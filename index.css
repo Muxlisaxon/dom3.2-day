@@ -1,0 +1,69 @@
+body {
+    background: plum;
+    margin-top: 250px;
+}
+
+.btns {
+    width: 850px;
+    margin: auto;
+    display: flex;
+    text-align: center;
+    gap: 30px;
+
+}
+
+.btn1 {
+    color: white;
+    font-size: 24px;
+    background: purple;
+    border-radius: 8px;
+    border: none;
+    padding: 8px 30px;
+}
+
+
+.btn2 {
+    color: white;
+    font-size: 24px;
+    background: purple;
+    border-radius: 8px;
+    border: none;
+    padding: 8px 30px;
+}
+
+.btn3 {
+    color: white;
+    font-size: 24px;
+    background: purple;
+    border-radius: 8px;
+    border: none;
+    padding: 8px 30px;
+}
+
+.btn4 {
+    color: white;
+    font-size: 24px;
+    background: purple;
+    border-radius: 8px;
+    border: none;
+    padding: 8px 30px;
+}
+
+.btn5 {
+    color: white;
+    font-size: 24px;
+    background: purple;
+    border-radius: 8px;
+    border: none;
+    padding: 8px 30px;
+}
+
+.btn6 {
+    color: white;
+    font-size: 24px;
+    background: purple;
+    border-radius: 8px;
+    border: none;
+    padding: 8px 30px;
+}
+
